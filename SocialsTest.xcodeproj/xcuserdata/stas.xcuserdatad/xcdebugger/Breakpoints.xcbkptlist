@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "100"
-         endingLineNumber = "100"
+         startingLineNumber = "93"
+         endingLineNumber = "93"
          landmarkName = "-directPostClick:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -21,11 +21,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "112"
-         endingLineNumber = "112"
+         startingLineNumber = "105"
+         endingLineNumber = "105"
          landmarkName = "-directPostClick:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "120"
-         endingLineNumber = "120"
+         startingLineNumber = "113"
+         endingLineNumber = "113"
          landmarkName = "-directPostClick:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -47,11 +47,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "167"
-         endingLineNumber = "167"
+         startingLineNumber = "160"
+         endingLineNumber = "160"
          landmarkName = "-alertView:clickedButtonAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -60,11 +60,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "187"
-         endingLineNumber = "187"
+         startingLineNumber = "183"
+         endingLineNumber = "183"
          landmarkName = "-textFieldShouldReturn:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -73,11 +73,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "128"
-         endingLineNumber = "128"
+         startingLineNumber = "121"
+         endingLineNumber = "121"
          landmarkName = "-postToFeed"
          landmarkType = "5">
       </FileBreakpoint>
@@ -99,11 +99,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375011311.465428"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "178"
-         endingLineNumber = "178"
+         startingLineNumber = "171"
+         endingLineNumber = "171"
          landmarkName = "-alertView:clickedButtonAtIndex:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -138,11 +138,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "SocialsTest/ViewController.m"
-         timestampString = "375016913.141486"
+         timestampString = "376507037.661702"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "134"
-         endingLineNumber = "134"
+         startingLineNumber = "127"
+         endingLineNumber = "127"
          landmarkName = "-postToFeed"
          landmarkType = "5">
       </FileBreakpoint>

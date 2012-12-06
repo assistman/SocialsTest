@@ -176,6 +176,9 @@ const NSString * FB_APP_ID = @"287334188047018";
     }
 }
 
+
+
+
 - (BOOL)textFieldShouldReturn:(UITextField *)txtField {
     [txtField resignFirstResponder];
     if (self.segmentedControl.selectedSegmentIndex == -1) {
