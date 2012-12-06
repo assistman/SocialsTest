@@ -89,13 +89,6 @@ const NSString * FB_APP_ID = @"287334188047018";
     }];
 }
 
-//-(void)accountBounding {
-//    NSArray *permissions =
-//    [NSArray arrayWithObjects:@"email", nil];
-//    
-//
-//}
-
 - (IBAction)directPostClick:(id)sender {
     self.statusLabel.text = @"Waiting for authorization...";
     if (self.accountStore == nil) {

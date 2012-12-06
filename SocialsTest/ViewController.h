@@ -15,6 +15,7 @@
     
 }
 
+@property (strong, nonatomic) NSArray * array;
 @property (unsafe_unretained, nonatomic) BOOL isBasicPermissionsGranted;
 @property (strong, nonatomic) NSDictionary * dataDict;
 @property (strong, nonatomic) ACAccount * facebookAccount;
